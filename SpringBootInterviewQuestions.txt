@@ -1,0 +1,18 @@
+Explain @Autowired
+Explain @SpringBootApplication
+Explain difference between @RestController and @Controller
+Difference between @Service and @Component
+Flow of request in spring boot and microservices
+How do you handle DB connections in Spring boot?
+What is JPA ? What is Hibernate?
+How do you execute native queries in Hibernate
+Difference between @Bean and @Component
+difference between @primary and @qualifier annotation
+Transactions in spring boot
+what happens if an exception occurs during transaction
+ACID properties
+Levels of Isolation
+Spr
+ing security
+Slowness in code
+Mechanism to store in hashmap( index = hashCode(key) & (n-1).)
