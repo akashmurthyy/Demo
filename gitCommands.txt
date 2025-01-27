@@ -1,0 +1,13 @@
+git init -> Initilize git
+git status -> Shows Untracked files
+git add . -> Push all the untracked files in that folder to stage
+git add names.txt -> Push only names.txt file to staging area
+git commit -m "My First Commit" -> Committed
+git restore --staged . -> Unstage all the files 
+git restore --staged names.txt -> Unstage names.txt file
+git log -> Entire commit history
+git reset (hashcode) -> rollback to that particular commit
+git stash ->  push all the changes to the back and get a clean directory
+git stash pop -> Pull back all the changes to staging area
+git stash clear -> All the stashed resources are deleted
+git remote add origin https://github.com/akashmurthyy/Demo.git -> Attach our local git to github
